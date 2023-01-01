@@ -22,11 +22,11 @@
     "lodash.debounce": "^4.0.8",
     "node-sass": "^4.12.0",
     "normalize.css": "^8.0.1",
-    "nuxt": "^2.6.3",
+    "nuxt": "^3.0.0",
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-leaflet": "0.0.15",
     "nuxt-webfontloader": "^1.0.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "vue-carousel": "^0.17.0"
   },
   "devDependencies": {
